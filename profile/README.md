@@ -17,3 +17,8 @@
 - https://github.com/modularml/mojo
 - https://www.modular.com/mojo
 - https://docs.modular.com/mojo/why-mojo.html
+
+## Related:
+
+- https://github.com/python
+- https://github.com/MagicStack/MagicPython
