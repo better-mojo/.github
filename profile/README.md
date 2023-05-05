@@ -14,5 +14,6 @@
 
 ## Mojo
 
+- https://github.com/modularml/mojo
 - https://www.modular.com/mojo
 - https://docs.modular.com/mojo/why-mojo.html
