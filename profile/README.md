@@ -20,11 +20,13 @@
 
 ## Chat Group
 
+- ✅️ Wechat:
 
-- wechat:
+<img width="250" src="https://user-images.githubusercontent.com/3252130/236625774-11005af1-0cf0-4154-908e-8094b7b3350a.png" />
 
-<img width=250px src="https://user-images.githubusercontent.com/3252130/236625774-11005af1-0cf0-4154-908e-8094b7b3350a.png" />
+- ✅️ Discord(mojo频道): [![Discord](https://img.shields.io/badge/Discord-GossipCoder-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MnDA9pfWAW)
 
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/3252130/236632737-c26136c8-0984-477f-b7da-b5d76c65dec2.png">
 
 
 ## Related
