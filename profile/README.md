@@ -23,7 +23,7 @@
 
 - wechat:
 
-<img width=400px src="https://user-images.githubusercontent.com/3252130/236625774-11005af1-0cf0-4154-908e-8094b7b3350a.png" />
+<img width=250px src="https://user-images.githubusercontent.com/3252130/236625774-11005af1-0cf0-4154-908e-8094b7b3350a.png" />
 
 
 
