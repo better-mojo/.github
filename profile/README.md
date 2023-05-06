@@ -12,13 +12,13 @@
 -->
 
 
-## Mojo
+## Mojo 🔥
 
 - https://github.com/modularml/mojo
 - https://www.modular.com/mojo
 - https://docs.modular.com/mojo/why-mojo.html
 
-## Chat Group:
+## Chat Group
 
 
 - wechat:
@@ -27,7 +27,7 @@
 
 
 
-## Related:
+## Related
 
 - https://github.com/python
 - https://github.com/MagicStack/MagicPython
