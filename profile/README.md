@@ -18,6 +18,10 @@
 - https://www.modular.com/mojo
 - https://docs.modular.com/mojo/why-mojo.html
 
+> CN:
+
+- https://github.com/mojo-cn
+
 ## Chat Group
 
 
